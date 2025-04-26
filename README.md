@@ -7,11 +7,13 @@ Each project focuses on a core competency in modern data analytics: data cleanin
 ### 1. Hospital Patient Records — Data Cleaning & Transformation
 Goal: Prepare and transform messy healthcare data for exploratory data analysis.
 Key Skills: Python, Pandas, Data Cleaning, Feature Engineering
+
 Status: 🟡 In Progress
 
 ### 2. Tropical Disease Spread Analysis — Exploratory Data Analysis (EDA)
 Goal: Explore and visualize patterns in tropical disease outbreaks.
 Key Skills: Python, Pandas, Geopandas, Plotly, Mapping
+
 Status: ⚪ Planned
 
 More to come soon...⌛
